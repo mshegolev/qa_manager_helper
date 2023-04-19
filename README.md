@@ -1,0 +1,1 @@
+# qa_manager_helper
